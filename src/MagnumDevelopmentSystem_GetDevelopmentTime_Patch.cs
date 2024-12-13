@@ -10,7 +10,7 @@ using UnityEngine;
 namespace QM_InstantResearch
 {
     [HarmonyPatch(typeof(MagnumDevelopmentSystem), nameof(MagnumDevelopmentSystem.GetDevelopmentTime))]
-    public static class ExamplePatch
+    public static class MagnumDevelopmentSystem_GetDevelopmentTime_Patch
     {
         public static void Postfix(ref int __result)
         {
