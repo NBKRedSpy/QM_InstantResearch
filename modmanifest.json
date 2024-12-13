@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedspy_QM_InstantResearch",
+  "Assemblies": [
+    "QM_InstantResearch.dll"
+  ],
+  "Dependencies": []
+}
