@@ -11,4 +11,4 @@ If you enjoy my mods and want to buy me a coffee, check out my [Ko-Fi](https://k
 Thanks!
 
 # Source Code
-Source code is available on GitHub at https://github.com/NBKRedspy/QM-Instance-Research
+Source code is available on GitHub at https://github.com/NBKRedspy/QM_InstantResearch
